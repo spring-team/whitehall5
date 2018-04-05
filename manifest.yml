@@ -1,6 +1,6 @@
 ---
 applications:
-- name: whitehall5
+- name: "whitehall5"
   memory: 1024M
   instances: 1
   buildpack: https://github.com/cloudfoundry/java-buildpack.git
